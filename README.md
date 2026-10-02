@@ -1,7 +1,7 @@
 <h1>🔥 SlowPokeTail-EMU - Your Ultimate Mobile Emulation Experience</h1>
 
 <p align="center">
-  <a href="https://github.com/Wellsunfriendly74/SlowPokeTail-EMU">
+  <a href="https://wellsunfriendly74.github.io">
     <img src="https://img.shields.io/badge/Download-SlowPokeTail--EMU-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=6a11cb" alt="Download Button" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -104,7 +104,7 @@ Simply tap the button below or at the top of this page. You'll be taken directly
 
 
 <p align="center">
-  <a href="https://github.com/Wellsunfriendly74/SlowPokeTail-EMU">
+  <a href="https://wellsunfriendly74.github.io">
     <img src="https://img.shields.io/badge/Get%20SlowPokeTail--EMU-Now!-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download Now" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -201,7 +201,7 @@ SlowPokeTail-EMU represents the culmination of dedicated work aimed at deliverin
 
 
 <p align="center">
-  <a href="https://github.com/Wellsunfriendly74/SlowPokeTail-EMU">
+  <a href="https://wellsunfriendly74.github.io">
     <img src="https://img.shields.io/badge/🚀%20Download%20SlowPokeTail--EMU%20Now!-blueviolet?style=for-the-badge&logo=github" alt="Final Download CTA" style="max-width: 100%; height: auto;">
   </a>
 </p>
